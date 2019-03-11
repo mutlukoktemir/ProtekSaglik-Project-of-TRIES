@@ -1,2 +1,2 @@
 # ProtekSaglik-Project-of-TRIES
-Turkish radiological information extraction system
+Turkish Radiological Information Extraction System
